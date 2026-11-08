@@ -7,3 +7,5 @@ g) Bittistä. Demoduloi signaali niin, että saat raakabittejä. Mikä on oikea 
 
 
 https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+
+wc -c < /home/elena/Downloads/1-on-on-on-HackRF-20250412_113805-433_912MHz-2MSps-2MHz.complex16s
